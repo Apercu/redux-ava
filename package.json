@@ -30,7 +30,8 @@
     "test"
   ],
   "dependencies": {
-    "deep-freeze": "0.0.1"
+    "deep-freeze": "0.0.1",
+    "immutable": "^3.8.1"
   },
   "devDependencies": {
     "cz-conventional-changelog": "*",
