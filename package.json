@@ -1,6 +1,7 @@
 {
   "name": "redux-ava",
   "description": "Write AVA tests for redux pretty quickly",
+  "version": "2.1.0",
   "license": "MIT",
   "repository": {
     "type": "git",
