@@ -1,11 +1,11 @@
 {
-  "name": "redux-ava",
+  "name": "redux-ava-immutable",
   "description": "Write AVA tests for redux pretty quickly",
   "version": "2.1.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sotojuan/redux-ava"
+    "url": "https://github.com/Apercu/redux-ava"
   },
   "author": {
     "name": "Juan Soto",
